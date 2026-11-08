@@ -1,0 +1,5 @@
+print ("I am 12 years old")
+print (67)
+print ("I go out with my friends,\n")
+print (2015,"I lived in Hazelhead")
+print ("I moved to Cove in 2017",end="C")
